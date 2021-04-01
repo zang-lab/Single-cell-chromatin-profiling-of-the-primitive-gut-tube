@@ -1,0 +1,32 @@
+figure	script
+fig 1B	scATAC/scATAC_ggplot_umap.R
+fig 1C	scATAC/GREAT_GOterm_dotplot.R
+fig 1D	scATAC/Sankey_Diagram.R
+fig 1E	"scATAC/scATAC_ggplot_umap.R
+scRNA/scRNA_markerGene_expression_boxplot.R"
+fig 2A	Bulk_data/E13.5/E13.5_kmanes_call_difPeak.R
+fig 2B	scATAC/scATAC_ArchR_4_peakEnrichment.R
+fig 2C	Temporal_Analysis/Association_Score.R
+fig 2E	Relative_motif_enrichment_score/motifEnrich_scatterplot_E95E135CrossStages.R
+fig 2F	Relative_motif_enrichment_score/motifEnrich_scatterplot_E135E16CrossStages.R
+fig 3A	Bulk_data/E13.5/E13.5_difPeak_ATACseq_pattern.R
+"fig 3B, C"	Bulk_data/E13.5/E13.5_difPeak_ChIPseq_pattern.R
+"fig 3D, G"	Bulk_data/E16.5/E16.5_KO_peak_classification_heatmap.R
+"fig 3E, H"	scATAC/scATAC_ArchR_5_ChromVar.R
+"fig 3F, I"	Bulk_data/E16.5/E16.5_KO_peak_classification_barplot.R
+"fig 5A, B"	TCGA_data_analysis/TCGA_sigGene_GSEA.R
+"fig 5C, D"	TCGA_data_analysis/TCGA_sigPeak_GSEA.R
+"fig 5E, F, G, H"	TCGA_data_analysis/Bart_result_scatterplot.R
+fig 6A	TCGA_data_analysis/TCGA_sigGene_GSEA.R
+fig 6B	TCGA_data_analysis/RP_cdfplot.R
+fig S1B	scATAC/cell_ranger_ATAC.sh
+fig S1C	scATAC/scATAC_ggplot_umap.R
+fig S1D	scATAC/scATAC_ArchR_3_organSpecificGenes&Peaks.R
+fig S1E	"scRNA/scRNA_seurat_pipeline.R
+scATAC/scATAC_ggplot_umap.R"
+fig S1F	scATAC/scATAC_ArchR_1_cluster&integration.R
+fig S2	scATAC/scATAC_ggplot_umap.R
+fig S3A	scATAC/E13.5_kmeans_call_DEG.R
+"fig S3B, C, D"	Relative_motif_enrichment_score/motifEnrich_scatterplot_E95E135CrossStages.R
+fig S3E	Relative_motif_enrichment_score/motifEnrich_scatterplot_E135E16CrossStages.R
+fig S5A	TCGA_data_analysis/RP_cdfplot.R
